@@ -1,0 +1,30 @@
+• whatfont - extension
+• CssPeeper - extension
+• colorPickerForChrome - extension
+
+Websites For Fonts
+• Google Fonts
+
+Websites For Icons
+• font awesome
+• material icons
+• feather icons
+
+Websites For Images & Videos
+• Pexels
+• Unsplash
+• Pixabay
+• Mixkit
+
+mock API
+• JSON Placeholder - Website
+• JSON formatter - Extension
+
+Image Compressor
+• compressor.io
+
+Website Analytics and Optimization
+• web.dev
+
+Animations
+• https://animista.net/
